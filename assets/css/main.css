@@ -150,7 +150,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #ffffff;
+		color: #7c7a7c;
 		margin: 0 0 0.75em 0;
 	}
 
@@ -211,6 +211,7 @@ input, select, textarea {
 		header > p {
 			font-size: 1.25em;
 			margin: 0;
+			color: #7c7a7c;
 		}
 
 	footer {
@@ -1686,7 +1687,7 @@ input, select, textarea {
 		text-shadow: -1px -1px 0.5px rgba(0, 0, 0, 0.5);
 		overflow: hidden;
 		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.5), inset 0px 2px 1px 0px rgba(255, 255, 255, 0.75);
-		background-color: #43B3E0;
+		background-color: #050404;
 		padding: 1em 2.35em 1em 2.35em;
 		font-size: 1.1em;
 		max-width: 24em;
@@ -1697,7 +1698,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #43bff0;
+			background-color: #94382e;
 			color: #fff !important;
 		}
 
@@ -1973,14 +1974,14 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
-		.icon.featured {
+		.icon.brands {
 			color: #7c7a7c;
 			display: block;
 			margin: 0 0 1.5em 0;
 			cursor: default;
 		}
 
-			.icon.featured:before {
+			.icon.brands:before {
 				font-size: 6em;
 			}
 
