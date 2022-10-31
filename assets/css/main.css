@@ -2080,7 +2080,6 @@ ul.actions li:first-child {
   display: block;
   margin: 0 0 1.5em 0;
   cursor: default;
-	
 }
 
 .icon.brands:before {
@@ -2088,7 +2087,11 @@ ul.actions li:first-child {
 }
 
 .icon.brands.fa-linkedin-in:before {
-	font-size: 2em;
+  font-size: 2em;
+}
+
+.icon.brands.fa-github:before {
+  font-size: 2em;
 }
 
 /* Wrappers */
